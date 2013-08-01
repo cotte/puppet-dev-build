@@ -6,4 +6,7 @@ class misc {
     package { 'vlc':
         ensure => installed,
     }
+    package { 'ssh':
+        ensure => installed,
+    }
 }
