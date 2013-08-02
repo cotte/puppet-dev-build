@@ -9,4 +9,7 @@ class misc {
     package { 'ssh':
         ensure => installed,
     }
+    package { 'chromium-browser':
+        ensure => installed,
+    }
 }
