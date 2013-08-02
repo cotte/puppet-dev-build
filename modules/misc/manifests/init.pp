@@ -15,4 +15,10 @@ class misc {
     package { 'gnome-panel':
         ensure => installed,
     }
+    package { 'guake':
+        ensure => installed,
+    }
+    package { 'gnome-do':
+        ensure => installed,
+    }
 }
