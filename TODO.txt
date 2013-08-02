@@ -1,0 +1,7 @@
+
+Intellij IDEA
+"dev" directory tree
+virtualenvwrapper to use dev/env
+sublime text
+skype
+
