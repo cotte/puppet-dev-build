@@ -12,4 +12,7 @@ class misc {
     package { 'chromium-browser':
         ensure => installed,
     }
+    package { 'gnome-panel':
+        ensure => installed,
+    }
 }
